@@ -1,4 +1,4 @@
-# CCM101-wlicay
+# Cloud Computing Portfolio
 
 ## Student Information
 
