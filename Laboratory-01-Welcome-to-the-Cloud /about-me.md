@@ -13,6 +13,7 @@ I am a BSIT student specializing in building secure, responsive, and engaging we
 ---
 
 ## Personal Interests & Hobbies
-* Long-distance running and marathon training (tracked on Strava)
-* Gaming and following mobile esports
 * Building hardware/software integrations and IoT solutions
+* Long-distance running 
+* Gaming and following mobile esports
+
