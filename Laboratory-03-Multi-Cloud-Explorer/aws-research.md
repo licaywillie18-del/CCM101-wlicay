@@ -1,7 +1,7 @@
 # AWS Research
 
 ## Brief Overview
-Amazon Web Services (AWS) is the world's most comprehensive and widely adopted cloud platform. It focuses on providing services for enterprises and organizations, with an emphasis on security, reliability, and performance.
+Amazon Web Services (AWS) was developed by Amazon and launched in 2006. AWS is the world's most comprehensive and widely adopted cloud platform. It focuses on providing services for enterprises and organizations, with an emphasis on security, reliability, and performance.
 ## Global Infrastructure
 An AWS Region is a geographic area around the world that contains multiple Availability Zones (AZs). Availability Zones are separate locations within a Region that help applications run with high availability and reliability. Using multiple AZs can help organizations keep applications and databases available even if one Availability Zone experiences a problem.
 ## Cloud Management Console
