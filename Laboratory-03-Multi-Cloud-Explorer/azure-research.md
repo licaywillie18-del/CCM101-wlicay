@@ -9,7 +9,7 @@ Microsoft Azure has 70+ regions around the world. These regions are organized in
 Each Azure region contains datacenters connected through a high-capacity network. Many Azure regions also provide availability zones, which are separate groups of datacenters designed to provide high availability and resiliency.
 Azure's global infrastructure helps organizations achieve global reach, lower latency, and improved reliability.
 ## Cloud Management Console
-
+The Azure Portal is a unified console provided by Microsoft. It allows users to build, manage, and monitor Azure resources through a web browser. It also allows users to manage and monitor their cloud resources and services in one place.
 ## Four Core Services
 ### one
 
