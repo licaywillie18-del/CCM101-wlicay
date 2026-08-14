@@ -18,3 +18,26 @@ Amazon RDS (Relational Database Service) makes it easier to set up, operate, and
 
 ### Amazon VPC
 Amazon VPC (Virtual Private Cloud) allows users to create a logically isolated virtual network in AWS. It provides control over IP addresses, subnets, routing, and network connectivity, helping organizations securely connect and manage their AWS resources.
+## 5. Three Advantages
+
+### 1. Cost
+Instead of buying or upgrading hardware and storage, organizations can use cloud services and pay for the resources they need.
+
+### 2. Scalability
+Users can easily increase or decrease their cloud resources according to their workload requirements.
+
+### 3. Speed
+Cloud services allow users to access computing resources quickly without waiting to purchase and install physical hardware. This helps organizations develop, test, and deploy applications faster.
+## 6. Typical Enterprise Use Cases
+
+### 1. Backup and Disaster Recovery
+
+AWS can help organizations protect their data and recover from disasters. Using multiple Availability Zones can improve application availability and resilience, while AWS backup and disaster recovery services can be configured to back up and restore data when needed.
+
+### 2. Web and Application Hosting
+
+AWS can be used by organizations to host websites and applications in the cloud. It provides scalable and reliable computing, storage, and database resources that allow applications to handle changing workloads and customer demand.
+
+### 3. Software Development and Testing
+
+AWS provides tools that help development teams build, test, and deploy software applications. These tools can automate development and testing processes, allowing teams to release applications faster without maintaining their own physical development infrastructure.
