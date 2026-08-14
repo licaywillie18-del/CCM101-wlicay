@@ -21,4 +21,4 @@
 
 
 
-AWS provides tools that help development teams build, test, and deploy software applications. These tools can automate development and testing processes, allowing teams to release applications faster without maintaining their own physical development infrastructure.
+
