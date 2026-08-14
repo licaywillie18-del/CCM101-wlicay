@@ -11,8 +11,14 @@ Azure's global infrastructure helps organizations achieve global reach, lower la
 ## Cloud Management Console
 The Azure Portal is a unified console provided by Microsoft. It allows users to build, manage, and monitor Azure resources through a web browser. It also allows users to manage and monitor their cloud resources and services in one place.
 ## Four Core Services
-### one
-
+### Azure Functions
+Azure Functions is a serverless computing solution that allows developers to run code without managing the underlying servers. It is event-driven and uses triggers to execute code when a specific event occurs, such as an HTTP request, timer, or file being added.
+### Azure SQL Database
+Azure SQL Database is a platform-as-a-service (PaaS) cloud database service. It handles many database management tasks, such as patching, upgrading, monitoring, and backups, reducing the need for manual administration.
+### Azure Blob Storage
+Azure Blob Storage is a cloud storage service designed to store large amounts of unstructured data, such as images, audio, video, documents, and other files. The stored data can be accessed over HTTP or HTTPS.
+### Azure Virtual Machines
+Azure Virtual Machines is a cloud computing service that provides scalable virtual computers, allowing users to run operating systems and applications in Azure without needing physical hardware.
 ## Three Advantages
 
 ###  one
