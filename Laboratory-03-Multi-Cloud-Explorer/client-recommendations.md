@@ -8,7 +8,7 @@ A startup company wants to launch a new mobile application. Their budget is limi
 ### Recommendation
 - **Cloud Platform: AWS**
 - **Services: Amazon EC2, Amazon S3, Amazon RDS**
-- 
+
 AWS is a suitable choice for the startup because it provides flexible cloud resources that can help control costs while the company grows. Its scalability allows the startup to increase or decrease resources according to the application's workload and number of users. Amazon EC2 can be used to run the application, Amazon S3 can store application files and data, and Amazon RDS can manage the relational database. This allows the startup to grow without purchasing and maintaining physical servers.
 
 
