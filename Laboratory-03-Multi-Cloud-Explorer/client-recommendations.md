@@ -54,3 +54,18 @@ A multinational online shopping company serves customers around the world and re
 - **Services: Amazon EC2, Amazon S3, Amazon RDS**
 
 AWS is a suitable choice for the global e-commerce company because its global infrastructure and scalable cloud services can support customers in different locations. AWS Availability Zones can improve application availability and reliability, while scalable resources can adjust to changing customer demand. Amazon EC2 can run the e-commerce application, Amazon S3 can store product images and other files, and Amazon RDS can manage customer and transaction databases. These services can help the company handle changing workloads while maintaining a highly available online shopping platform.
+
+
+
+# Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS offers scalable cloud resources and flexible pricing, making it suitable for startups with limited budgets and plans for rapid growth. |
+| Enterprise Organization | AWS | AWS provides a broad range of cloud services and a mature global infrastructure that can support different enterprise workloads. |
+| Microsoft Environment | Microsoft Azure | Azure integrates well with Microsoft technologies such as Windows Server, Microsoft 365, and Active Directory. |
+| AI / Machine Learning | Google Cloud Platform (GCP) | GCP provides strong AI, machine learning, data analytics, and high-performance computing capabilities. |
+| Kubernetes Deployment | Google Cloud Platform (GCP) | GCP provides Google Kubernetes Engine (GKE), a managed Kubernetes service for deploying and managing containerized applications. |
+| Global Web Application | AWS | AWS provides a global infrastructure with multiple Availability Zones and scalable services that can support highly available web applications. |
+
+
