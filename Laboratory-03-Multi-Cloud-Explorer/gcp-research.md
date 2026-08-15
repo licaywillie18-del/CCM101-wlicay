@@ -1,4 +1,3 @@
-
 # GCP Research
 
 ## Brief Overview
