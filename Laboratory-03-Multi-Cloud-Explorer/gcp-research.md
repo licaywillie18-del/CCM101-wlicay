@@ -2,7 +2,7 @@
 # GCP Research
 
 ## Brief Overview
-Google Cloud is a cloud platform developed by Google. It provides cloud services that help organizations build, deploy, and scale applications, analyze data, and use AI technologies. Google Cloud is also known for its planet-scale infrastructure, which provides global connectivity, performance, and availability
+Google Cloud is a cloud computing platform developed by Google. It was introduced in 2008 with the launch of Google App Engine. It provides cloud services that help organizations build, deploy, and scale applications, manage and analyze data, and use artificial intelligence and machine learning technologies.
 
 ## Global Infrastructure
 Google Cloud uses a global infrastructure organized into universes, regions, and zones. A universe is the highest level of Google Cloud's infrastructure, while regions are geographic areas that contain zones. Each region is divided into zones, which are separate deployment areas designed to provide high availability and reliability. Google Cloud also operates physical data centers where its cloud services and workloads run. This global infrastructure helps organizations achieve lower latency, high availability, and redundancy.
