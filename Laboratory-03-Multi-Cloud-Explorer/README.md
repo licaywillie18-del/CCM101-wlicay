@@ -1,6 +1,4 @@
-# Continue Linux Investigation
-
-## Linux Server Information
+# Linux Server Information
 
 ### Operating System
 Ubuntu 24.04.4 LTS
