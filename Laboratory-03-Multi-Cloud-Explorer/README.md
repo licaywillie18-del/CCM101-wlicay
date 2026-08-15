@@ -4,7 +4,7 @@
 
 #### Operating System
 
-The Linux server is running **[Ubuntu 24.04.4 LTS]**.
+**[Ubuntu 24.04.4 LTS]**.
 
 #### CPU Information
 
