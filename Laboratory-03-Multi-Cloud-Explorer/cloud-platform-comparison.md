@@ -1,30 +1,21 @@
-
 # Cloud Platform Comparison
 
 | Category | AWS | Microsoft Azure | Google Cloud Platform |
 |---|---|---|---|
-| **Launch Year** |  |  |  |
-| **Compute Service** |  |  |  |
-| **Storage Service** |  |  |  |
-| **Networking Service** |  |  |  |
-| **Identity Service** |  |  |  |
-| **Primary Strength** |  |  |  |
-| **Ideal Organizations** |  |  |  |
+| **Launch Year** | 2006 | 2010 | 2008 |
+| **Compute Service** | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| **Storage Service** | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| **Networking Service** | Amazon VPC | Azure Virtual Network (VNet) | Virtual Private Cloud (VPC) |
+| **Identity Service** | AWS Identity and Access Management (IAM) | Microsoft Entra ID | Identity and Access Management (IAM) |
+| **Primary Strength** | Wide range of cloud services | Microsoft integration and enterprise cloud | Data analytics and AI |
+| **Ideal Organizations** | Enterprises, startups, and organizations needing a broad range of services | Organizations using Microsoft technologies and enterprise workloads | Organizations focused on data analytics, AI, and machine learning |
 
 ## Questions
 
 ### 1. Which cloud provider offers the broadest range of services?
 
-[Answer in 2–3 sentences.]
-
 ### 2. Which provider best integrates with Microsoft technologies?
-
-[Answer in 2–3 sentences.]
 
 ### 3. Which provider is strongest in Artificial Intelligence and Kubernetes?
 
-[Answer in 2–3 sentences.]
-
 ### 4. Which cloud platform would you personally choose and why?
-
-[Answer in 2–3 sentences.]
