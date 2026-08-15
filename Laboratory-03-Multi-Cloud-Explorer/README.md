@@ -3,20 +3,16 @@
 ### Linux Server Information
 
 #### Operating System
-
-**[Ubuntu 24.04.4 LTS]**.
+Ubuntu 24.04.4 LTS
 
 #### CPU Information
-
-The server uses **[Intel Xeon E312xx]**.
+Intel Xeon E312xx
 
 #### Memory
-
-The server has **[1.9Gi]** of total memory.
+1.9Gi
 
 #### Disk Space
-
-The server has **[19 GB total, 13 GB ]** of available disk space.
+19 GB total, 13 GB available
 
 ### Cloud Migration
 
