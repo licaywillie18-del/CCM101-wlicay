@@ -1,5 +1,3 @@
-
-
 # AZURE Research
 
 ## Brief Overview
