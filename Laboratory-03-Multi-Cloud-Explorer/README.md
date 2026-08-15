@@ -1,17 +1,17 @@
 # Continue Linux Investigation
 
-### Linux Server Information
+## Linux Server Information
 
-#### Operating System
+### Operating System
 Ubuntu 24.04.4 LTS
 
-#### CPU Information
+### CPU Information
 Intel Xeon E312xx
 
-#### Memory
+### Memory
 1.9Gi
 
-#### Disk Space
+### Disk Space
 19 GB total, 13 GB available
 
 ### Cloud Migration
