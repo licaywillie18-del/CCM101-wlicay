@@ -1,1 +1,32 @@
+services:
+  mariadb:
+    image: mariadb:11
+    container_name: ccm101_mariadb
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: Mariarootpassword@321
+      MYSQL_DATABASE: wordpress
+      MYSQL_USER: wpuser
+      MYSQL_PASSWORD: Mariapassword@321
+    volumes:
+      - mariadb_data:/var/lib/mysql
 
+  wordpress:
+    image: wordpress:latest
+    container_name: ccm101_wordpress
+    restart: always
+    ports:
+      - "8080:80"
+    environment:
+      WORDPRESS_DB_HOST: mariadb:3306
+      WORDPRESS_DB_USER: wpuser
+      WORDPRESS_DB_PASSWORD: Mariapassword@321
+      WORDPRESS_DB_NAME: wordpress
+    volumes:
+      - wordpress_data:/var/www/html
+    depends_on:
+      - mariadb
+
+volumes:
+  mariadb_data:
+    wordpress_data:
