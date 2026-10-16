@@ -11,7 +11,7 @@
 ---
 
 ### I. Executive Summary
-Concluding our journey in **CCM101 - Cloud Computing** through **Mission 10: The Enterprise Cloud Architect** marks a major transition from guided laboratory exercises to autonomous cloud engineering. In this capstone mission, our objective was to design, deploy, harden, and automate a production-grade, multi-tier containerized infrastructure (WordPress + MariaDB) from scratch on an Ubuntu Server VirtualBox environment without guided step-by-step instructions.
+Concluding our journey in **CCM101 - Cloud Computing** through **Mission 10: The Enterprise Cloud Architect** marks a major transition from guided laboratory exercises to autonomous cloud engineering. In this mission, our objective was to design, deploy, harden, and automate a production-grade, multi-tier containerized infrastructure (WordPress + MariaDB) from scratch on an Ubuntu Server VirtualBox environment without guided step-by-step instructions.
 
 ---
 
