@@ -17,11 +17,11 @@ As an Enterprise Cloud Architect for CloudNova Technologies, the goal of this pr
 
 | File Name | Description | Status |
 | :--- | :--- | :---: |
-| `architecture-diagram.png` | Network topology and architecture diagram (Host, Hypervisor, Ubuntu Server VM, UFW, Docker Bridge) | Ready |
+| `architecture-diagram.png` | Network topology and architecture diagram (Host, Hypervisor, Ubuntu Server VM, UFW, Docker Bridge) | Completed |
 | `docker-compose.yml` | Multi-tier WordPress + MariaDB stack configuration with persistent data volumes | Completed |
 | `automation-script.sh` | Bash script for autonomous MariaDB database and WordPress backups | Completed |
 | `operational-manual.md` | Executive-level operational handover manual for the IT operations team | Completed |
-| `final-reflection.md` | Personal reflection and synthesis of learnings from Mission 1 to Mission 10 | In Progress |
+| `final-reflection.md` | Personal reflection and synthesis of learnings from Mission 1 to Mission 10 | Completed |
 
 ---
 
