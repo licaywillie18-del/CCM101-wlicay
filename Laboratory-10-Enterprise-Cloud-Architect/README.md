@@ -41,8 +41,34 @@ As an Enterprise Cloud Architect for CloudNova Technologies, the goal of this pr
 
 ## Quickstart
 
+
+
 ### 1. Launch the Stack
+
 ```bash
 cd ~/ccm101-mission10
 sudo docker compose up -d
 sudo docker compose ps
+
+```
+
+### 2. Configure Firewall (UFW)
+
+```bash
+
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+sudo ufw allow 22/tcp comment 'SSH'
+sudo ufw allow 8080/tcp comment 'WordPress Web'
+sudo ufw enable
+
+```
+
+### 3. Run Automation Backup
+
+```bash
+
+chmod +x scripts/automation-script.sh
+./scripts/automation-script.sh
+
+```
